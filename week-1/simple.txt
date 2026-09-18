@@ -1,0 +1,5 @@
+| Name  | Age | Course                 |
+| ----- | --: | ---------------------- |
+| John  |  25 | Information Technology |
+| Sarah |  23 | Data Science           |
+| David |  26 | Computer Science       |
